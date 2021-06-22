@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Archy EDT';
+    src: url('../fonts/ArchyEDT-Thin.eot');
+    src: url('../fonts/ArchyEDT-Thin.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ArchyEDT-Thin.woff2') format('woff2'),
+        url('../fonts/ArchyEDT-Thin.woff') format('woff'),
+        url('../fonts/ArchyEDT-Thin.ttf') format('truetype'),
+        url('../fonts/ArchyEDT-Thin.svg#ArchyEDT-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zapf';
+    src: url('../fonts/ZapfMedium.eot');
+    src: url('../fonts/ZapfMedium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ZapfMedium.woff2') format('woff2'),
+        url('../fonts/ZapfMedium.woff') format('woff'),
+        url('../fonts/ZapfMedium.ttf') format('truetype'),
+        url('../fonts/ZapfMedium.svg#ZapfMedium') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
